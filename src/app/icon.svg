@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Apex">
+  <rect width="64" height="64" rx="15" fill="#FF5A1F" />
+  <path d="M32 10.5 56.5 53.5h-49L32 10.5Z" fill="#F6F2EE" />
+  <path d="M32 27.5 43.4 53.5H20.6L32 27.5Z" fill="#FF5A1F" />
+</svg>
