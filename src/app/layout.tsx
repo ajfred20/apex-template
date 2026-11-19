@@ -37,12 +37,21 @@ export const metadata: Metadata = {
     type: "website",
     siteName: "Apex",
     url: "/",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Apex — Stablecoin payments without borders or delays.",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "Apex — Stablecoin payments without borders or delays",
     description:
       "Accept USDT and USDC on five major networks. Settlement in seconds, zero chargebacks, 0.8% flat.",
+    images: ["/og-image.png"],
   },
 };
 
